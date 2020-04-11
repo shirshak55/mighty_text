@@ -1,0 +1,4 @@
+GMAIL_USERNAME="xyz@gmail.com"
+GMAIL_PASSWORD="password123"
+HEADLESS=true
+LOGIN_TO_GMAIL= true
