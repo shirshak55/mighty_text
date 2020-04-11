@@ -37,8 +37,8 @@ If you want to see improvement in package development then please consider donat
 
 ```bash
 // Clone this repo
-$ git clone https://github.com/shirshak55/mighty_text_json_api
-$ cd mighty_text_json_api
+$ git clone https://github.com/shirshak55/mighty_text
+$ cd mighty_text
 ```
 
 2. Run `yarn` or `yarn install` or `npm install`
@@ -78,4 +78,4 @@ If you discover any security related issues, please email shirshak55@pm.me inste
 - [All Contributors][link-contributors]
 
 [link-author]: https://github.com/shirshak55
-[link-contributors]: https://github.com/shirshak55/mighty_text_json_api/graphs/contributors
+[link-contributors]: https://github.com/shirshak55/mighty_text/graphs/contributors
