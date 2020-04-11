@@ -2,6 +2,8 @@
 
 Turn your might text to json api so you can use in other part of api.
 
+_Currently Heavy in development. We will follow semver after 1.0.0 release_
+
 ## What is mighty text?
 
 > According to official website "Text From Any Device. Send & receive SMS and MMS from your computer or tablet, using your current Android phone number.Messages stay in sync with your phone's SMS inbox"
@@ -56,9 +58,15 @@ cp config.toml.example config.toml
 6. If you want to run it as daemon then stop the server using SIGINT (`ctrl + c`) and run following command.
 
 ```bash
-$ yarn global install pm2
-$ yarn
+$ yarn global install pm2 # or npm i -g pm2
+$ yarn pm2 # or npm run pm2
 ```
+
+# EndPoint
+
+Currently we have only 1 endpoint for showing message. There will be more in future.
+
+`http://localhost:30017/sms` => Endpoint for receiving message. Its in JSON format
 
 ## License
 
