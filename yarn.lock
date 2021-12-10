@@ -1119,9 +1119,9 @@ is-arrayish@^0.2.1:
   integrity sha1-d8mYQFJ6qOyxqLppe4BkWnqSap0=
 
 is-email@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/is-email/-/is-email-1.0.0.tgz#6e02d4145dd6246fa05eea16bfe0b2b843ac2802"
-  integrity sha1-bgLUFF3WJG+gXuoWv+CyuEOsKAI=
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/is-email/-/is-email-1.0.2.tgz#51a618e2ddc895988ceb550df9f587b3607560e5"
+  integrity sha512-UojUgD2EhDTBQ2SGKwrK9edce5phRzgLsP+V5+Uu2Swi+uvjVXgH3zduM3HhT9iaC/9Kq19/TYUbP0jPoi6ioA==
 
 is-fullwidth-code-point@^3.0.0:
   version "3.0.0"
